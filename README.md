@@ -1,1 +1,1 @@
-# super basic password generator
+# PasswordGen
